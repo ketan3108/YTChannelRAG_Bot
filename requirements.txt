@@ -1,0 +1,12 @@
+yt-dlp
+qdrant-client
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-huggingface
+flashrank
+rank_bm25
+gradio
+sentence-transformers
+langchain-qdrant
